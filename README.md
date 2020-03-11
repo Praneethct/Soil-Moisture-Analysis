@@ -1,4 +1,4 @@
-# Soil Moisture Analysis
+# Soil-Moisture-Analysis
 Prediction of Soil Moisture using Hyperspectral bands.
 Performed Descriptive Data Analysis on the soil data.
 Checked for null values in the data.
